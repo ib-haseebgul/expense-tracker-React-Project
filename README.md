@@ -1,3 +1,5 @@
+![Alt](https://repobeats.axiom.co/api/embed/fe82146d68f59e9025a2e9cb1e950bf690097540.svg "Repobeats analytics image")
+
 # 💰 React Expense Tracker
 
 This project is a simple and practical **Expense Tracker Application** built using React.  
